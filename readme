@@ -1,1 +1,6 @@
-
+1$ git init -->初始化本地仓库（每个项目文件夹下只需要初始化一次即可）
+2$ git status -->查看状态
+3$ git add 文件名-->跟踪修改文件（更新文件）
+4$ git commit -m "你的备注信息"-->提交所有更新过的文件
+5$ git remote add origin github的SSH地址.git-->添加远程版本库
+6$ git push -u origin master-->上传代码及快速合并
